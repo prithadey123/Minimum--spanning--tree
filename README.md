@@ -2,7 +2,7 @@ This project implements **Prim's Algorithm** in C to find the **Minimum Spanning
 
 The graph is represented using an **Adjacency Matrix**.
 
----
+
 
  Concept Overview
 
